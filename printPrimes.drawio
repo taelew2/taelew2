@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="588" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="537" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -89,8 +89,20 @@
             <mxPoint x="290" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WMLP6IzIhIKLdvRmTj-3-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WMLP6IzIhIKLdvRmTj-3-29" target="WMLP6IzIhIKLdvRmTj-3-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WMLP6IzIhIKLdvRmTj-3-29" value="end of while" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="730" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLP6IzIhIKLdvRmTj-3-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WMLP6IzIhIKLdvRmTj-3-32" target="WMLP6IzIhIKLdvRmTj-3-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLP6IzIhIKLdvRmTj-3-32" value="str+=&quot; &quot; + primes[i]" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMLP6IzIhIKLdvRmTj-3-34" value="System.out.print(str)&lt;div&gt;return str&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
